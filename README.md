@@ -28,6 +28,11 @@ The model is built to detect suspicious transactions based on:
 - pandas
 - joblib
 
+## Dataset 
+From Kaggle (Fraud Detection Dataset)
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
+
+
 ## Installation
 
 1. Clone or open the repository.
